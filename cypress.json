@@ -1,0 +1,16 @@
+{
+  "watchForFilesChanges": false,
+  "chromeWebSecurity": false,
+  "viewportHeight": 600,
+  "viewPortWidth": 1000,
+  "waitForAnimation": true,
+  "animationDistanceThreshold": 20,
+  "defaultCommandTimeout": 6000,
+  "execTimeout": 60000,
+  "paggeLoadTimeout": 60000,
+  "requestTimeout": 20000,
+  "responseTimeout": 20000,
+  "video": true,
+  "failOnStatusCode": false,
+  "projectId": "abgk59"
+}
