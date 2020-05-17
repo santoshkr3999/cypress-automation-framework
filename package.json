@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "cy:run-chrome" : "cypress run --browser chrome",
+    "cy:run-firefox" : "cypress run --browser firefox",
+    "cy:run-electron" : "cypress run --browser electron"
     "cy:open": "cypress open",
     "cy:run-dashboard" : "cypress run --record --key 2661d1ee-c91a-42a2-9af2-18794fccdea4",
     "cy:update-snapshot" : "cypress run --env updateSnapshots=true"
